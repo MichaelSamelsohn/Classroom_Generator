@@ -1,6 +1,8 @@
 # Classroom_Generator
 
 Warning - **Python 3.10** is required to run the program as expected.
+To download Python 3.10, use - https://www.python.org/downloads/
+To download the IDE (Pycharm recommended), use - https://www.jetbrains.com/pycharm/download/
 
 1) In Pupils.py - Fill in the list of pupils. Each pupil has three attributes:
    * **Name** - Must be unique per pupil.
