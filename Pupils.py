@@ -1,3 +1,7 @@
+"""
+Author: Michael Samelsohn (advised by Eleonora Levin), 25/05/22.
+"""
+
 from Pupil import Pupil
 
 PUPIL_LIST = [

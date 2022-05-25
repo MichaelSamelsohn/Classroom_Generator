@@ -30,7 +30,7 @@ class, application code may instantiate formatter classes, although you could li
 application needs special behavior. The constructor takes three optional arguments – a message format string, a date
 format string and a style indicator.
 
-Created by Michael Samelsohn, 05/05/22
+Author: Michael Samelsohn, 05/05/22
 """
 
 # Imports #

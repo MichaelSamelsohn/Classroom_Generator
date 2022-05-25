@@ -1,3 +1,7 @@
+"""
+Author: Michael Samelsohn (advised by Eleonora Levin), 25/05/22.
+"""
+
 # Imports #
 import math
 import random

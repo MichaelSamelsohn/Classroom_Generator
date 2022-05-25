@@ -1,3 +1,8 @@
+"""
+Author: Michael Samelsohn (advised by Eleonora Levin), 25/05/22.
+"""
+
+
 class Pupil:
     """
     Class that represents a pupil. Each pupil has three attributes:
