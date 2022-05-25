@@ -1,1 +1,12 @@
 # Classroom_Generator
+
+Warning - **Python 3.10** is required to run the program as expected.
+
+1) In Pupils.py - Fill in the list of pupils. Each pupil has three attributes:
+   * **Name** - Must be unique per pupil.
+   * **Front row precedence** (True/False).
+   * **List of other ('bad') pupils** that can't be seated together.
+2) In Class_Generator.py - Run the program (Shift-Alt-F10 Win/Linux, Ctrl-Alt-R macOS).
+3) Check the terminal for the results.
+
+Note - The left-right seating has no value, the teacher can easily swap the pupils on the same table.
